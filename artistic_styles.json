@@ -1,0 +1,274 @@
+[
+    {
+        "id": "3d",
+        "name": "3D"
+    },
+    {
+        "id": "abstract_art",
+        "name": "Abstract Art"
+    },
+    {
+        "id": "acrylic_painting",
+        "name": "Acrylic Painting"
+    },
+    {
+        "id": "african_art",
+        "name": "African Art"
+    },
+    {
+        "id": "art_deco",
+        "name": "Art Deco"
+    },
+    {
+        "id": "art_nouveau",
+        "name": "Art Nouveau"
+    },
+    {
+        "id": "ballpoint_pen_art",
+        "name": "Ballpoint Pen Art"
+    },
+    {
+        "id": "benin_art",
+        "name": "Benin Art"
+    },
+    {
+        "id": "benin_bronze",
+        "name": "Benin Bronze"
+    },
+    {
+        "id": "byzantine_art",
+        "name": "Byzantine Art"
+    },
+    {
+        "id": "charcoal_drawing",
+        "name": "Charcoal Drawing"
+    },
+    {
+        "id": "chiaroscuro",
+        "name": "Chiaroscuro"
+    },
+    {
+        "id": "chinese_art",
+        "name": "Chinese Art"
+    },
+    {
+        "id": "collage_painting",
+        "name": "Collage Painting"
+    },
+    {
+        "id": "color_pencil_sketch",
+        "name": "Color Pencil Sketch"
+    },
+    {
+        "id": "contemporary_art",
+        "name": "Contemporary Art"
+    },
+    {
+        "id": "crayon_drawing",
+        "name": "Crayon Drawing"
+    },
+    {
+        "id": "cubist_art",
+        "name": "Cubist Art"
+    },
+    {
+        "id": "cyberpunk",
+        "name": "Cyberpunk"
+    },
+    {
+        "id": "digital_art",
+        "name": "Digital Art"
+    },
+    {
+        "id": "expressionism",
+        "name": "Expressionism"
+    },
+    {
+        "id": "fresco",
+        "name": "Fresco"
+    },
+    {
+        "id": "futurism",
+        "name": "Futurism"
+    },
+    {
+        "id": "gestural_abstraction",
+        "name": "Gestural Abstraction"
+    },
+    {
+        "id": "gond_painting",
+        "name": "Gond Painting"
+    },
+    {
+        "id": "gouache_painting",
+        "name": "Gouache Painting"
+    },
+    {
+        "id": "greek_art",
+        "name": "Greek Art"
+    },
+    {
+        "id": "grisaille",
+        "name": "Grisaille"
+    },
+    {
+        "id": "impasto",
+        "name": "Impasto"
+    },
+    {
+        "id": "ink_painting",
+        "name": "Ink Painting"
+    },
+    {
+        "id": "islamic_art",
+        "name": "Islamic Art"
+    },
+    {
+        "id": "isometric_3d",
+        "name": "Isometric 3d"
+    },
+    {
+        "id": "kalamkari_painting",
+        "name": "Kalamkari Painting"
+    },
+    {
+        "id": "macro_35_millimeters_photo",
+        "name": "Macro 35 Millimeters Photo"
+    },
+    {
+        "id": "medieval_art",
+        "name": "Medieval Art"
+    },
+    {
+        "id": "miniature_painting",
+        "name": "Miniature Painting"
+    },
+    {
+        "id": "minimalist_art",
+        "name": "Minimalist Art"
+    },
+    {
+        "id": "neoclassicism",
+        "name": "Neoclassicism"
+    },
+    {
+        "id": "neon_art",
+        "name": "Neon Art"
+    },
+    {
+        "id": "oil_painting",
+        "name": "Oil Painting"
+    },
+    {
+        "id": "one_line_drawing",
+        "name": "One Line Drawing"
+    },
+    {
+        "id": "op_art",
+        "name": "Op Art"
+    },
+    {
+        "id": "pencil_sketch",
+        "name": "Pencil Sketch"
+    },
+    {
+        "id": "photo",
+        "name": "Photo"
+    },
+    {
+        "id": "photorealism",
+        "name": "Photorealism"
+    },
+    {
+        "id": "pixel_art",
+        "name": "Pixel Art"
+    },
+    {
+        "id": "pop_art",
+        "name": "Pop Art"
+    },
+    {
+        "id": "portrait_painting",
+        "name": "Portrait Painting"
+    },
+    {
+        "id": "pre-columbian_art",
+        "name": "Pre-Columbian Art"
+    },
+    {
+        "id": "realistic_art",
+        "name": "Realistic Art"
+    },
+    {
+        "id": "renaissance_art",
+        "name": "Renaissance Art"
+    },
+    {
+        "id": "romanesque_art",
+        "name": "Romanesque Art"
+    },
+    {
+        "id": "sand_painting",
+        "name": "Sand Painting"
+    },
+    {
+        "id": "sculpture",
+        "name": "Sculpture"
+    },
+    {
+        "id": "sfumato",
+        "name": "Sfumato"
+    },
+    {
+        "id": "skeuomorphism",
+        "name": "Skeuomorphism"
+    },
+    {
+        "id": "spray_painting",
+        "name": "Spray Painting"
+    },
+    {
+        "id": "stained_glass_window",
+        "name": "Stained Glass Window"
+    },
+    {
+        "id": "still_life",
+        "name": "Still Life"
+    },
+    {
+        "id": "street_art",
+        "name": "Street Art"
+    },
+    {
+        "id": "surreal_art",
+        "name": "Surreal Art"
+    },
+    {
+        "id": "surrealism",
+        "name": "Surrealism"
+    },
+    {
+        "id": "tanjore_painting",
+        "name": "Tanjore Painting"
+    },
+    {
+        "id": "trompe_l_oeil",
+        "name": "Trompe L’Oeil"
+    },
+    {
+        "id": "ukiyo-e",
+        "name": "Ukiyo-E"
+    },
+    {
+        "id": "vaporwave",
+        "name": "Vaporwave"
+    },
+    {
+        "id": "warli_painting",
+        "name": "Warli Painting"
+    },
+    {
+        "id": "watercolor_art",
+        "name": "Watercolor Art"
+    }
+]
